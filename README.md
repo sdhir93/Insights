@@ -17,4 +17,4 @@ While such a "quick/handy" bullet point list does not exist for all papers, it m
 
 A programmer will never know until she/he is introduced to these ideas. The problem is sprint deadlines and life in general does not allow a programmer to take out time from the day and read papers. I get that.
 
-I am a firmware developer, and I develop in C, C++. I came up with a solution, basically to solve the above problem for myself because I rarely get time to read, but let's give this a try. I thought such a "quick/handy" bullet point list of ideas discussed in some popular papers can help me in learning about new ideas and consequently develop better intuition for software development.
+I am a firmware developer, and I develop in C, C++. I came up with a solution, basically to solve the above problem for myself because I rarely get time to read, but let's give this a try. I thought such a "quick/handy" bullet point list of ideas discussed in some popular papers can help me in learning about new ideas and consequently develop better intuition for software development while building my own reasoning and arguments.
