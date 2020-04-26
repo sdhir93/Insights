@@ -1,5 +1,5 @@
 # Insights
-This repository contains insights distilled from some popular research papers. Intention is to write about ideas from papers that may be helpful for a software developer.
+This repository contains insights distilled from some popular research papers. Intention is to write about ideas from papers that may be helpful for an embedded systems software developer.
 
 The idea first came to me after watching a video by Vivek Haldar's Youtube Channel where he reads a paper and discusses main ideas discussed in that paper.
 Link to his channel: https://www.youtube.com/channel/UCpXfS8bu7ILGCuOtsnJMtxQ/videos
